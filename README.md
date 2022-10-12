@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mrxentv" target="blank"><img src="https://img.shields.io/twitter/follow/mrxentv?logo=twitter&style=for-the-badge" alt="mrxentv" /></a> </p>
 
-- 🌱 I’m currently learning: **React / Gatsby**
+- 🌱 I’m currently learning: **React / Gatsby & Golang**
 
 - 💬 Ask me about **PHP, HTML, CSS, AWS, Server Management**
 
