@@ -8,6 +8,7 @@ My homelab is at the nexus of my learning journey, [learn about my homelab here]
 
 ### Latest [Blog](https://dancro.dev) Posts
 <!-- BLOG-LIST:START -->
+- [Hello World](https://dancro.dev/hello-world/)
 <!-- BLOG-LIST:END -->
 
 `.... . .-.. .-.. ---  - .... . .-. .  ... - .-. .- -. --. . .-.`
