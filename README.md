@@ -6,9 +6,9 @@ I'm a avid CTF competitor, feel free to check out my [results, writeups and tool
 
 My homelab is at the nexus of my learning journey, [learn about my homelab here](https://github.com/dancrodev/homelab).
 
-### Latest Blog Posts
-
-- Soon™
+### Latest [Blog](https://dancro.dev) Posts
+<!-- BLOG-LIST:START -->
+<!-- BLOG-LIST:END -->
 
 `.... . .-.. .-.. ---  - .... . .-. .  ... - .-. .- -. --. . .-.`
 
